@@ -80,6 +80,9 @@ Testar quantização e exportação para TensorFlow Lite visando uso em disposit
 
 Criar API de inferência com FastAPI e demo web interativa.
 
+---
+## Apresentação
+Link: https://youtu.be/Tk5p4OYrATY
 
 ## Autor
 Ricardo Prata
